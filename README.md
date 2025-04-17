@@ -1,2 +1,2 @@
 # 人工智能进化
-AI Research -> Rise -> Revolution
+AIR³ : Research -> Rise -> Revolution
